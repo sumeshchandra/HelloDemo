@@ -3,6 +3,7 @@ class Hello
 	public static void main(String[] args)
 	{
 	System.out.print("Hello Worls");
+		// wage is based on full time or part time
 		int wagePerHour = 20;
 		int fullDayHour = 8;
 		int dailyWage = 0;
