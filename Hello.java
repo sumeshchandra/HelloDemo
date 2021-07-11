@@ -15,7 +15,10 @@ class Hello
 			 System.out.println(" Employee is Absent");
 		// comments uc-3 is being added
 		System.out.println("UC-3 ");
+<<<<<<< HEAD
 		// modified in local
+=======
+		// modified in master
 
 	}
 
